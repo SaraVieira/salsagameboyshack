@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Logo } from "./components/logo";
 import { HomeWithForSale } from "./components/HomeWithForSale";
 
 export type GB = {
